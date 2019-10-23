@@ -7,7 +7,7 @@ cout<<"slovo2"<<endl;
 int mark;
 cout <<"enter ur mark plz"<<endl;
 cin>>mark;
-
+cout<<"ur mark is "<<mark<<endl;
 
 system("pause");
 return 0;
