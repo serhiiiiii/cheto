@@ -7,8 +7,12 @@ cout<<"slovo2"<<endl;
 int mark;
 cout <<"enter ur mark plz"<<endl;
 cin>>mark;
+if (mark > 0 && mark < 1000){
 cout<<"ur mark is "<<mark<<endl;
-
+}
+else {
+cout<<"u give me wrong mark, try again m8"<<endl;
+}
 system("pause");
 return 0;
 
