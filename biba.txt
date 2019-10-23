@@ -3,6 +3,7 @@ using namespace std;
 int main(){
 
 cout<<"slovo"<<endl;
+cout<<"slovo2"<<endl;
 
 
 system("pause");
