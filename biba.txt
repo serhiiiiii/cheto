@@ -6,6 +6,8 @@ cout<<"slovo"<<endl;
 cout<<"slovo2"<<endl;
 int mark;
 cout <<"enter ur mark plz"<<endl;
+cin>>mark;
+
 
 system("pause");
 return 0;
