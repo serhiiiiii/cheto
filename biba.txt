@@ -4,7 +4,8 @@ int main(){
 
 cout<<"slovo"<<endl;
 cout<<"slovo2"<<endl;
-
+int mark;
+cout <<"enter ur mark plz"<<endl;
 
 system("pause");
 return 0;
